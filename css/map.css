@@ -1,0 +1,6 @@
+.demo_main { position: absolute;width: 1200px;height: 850px;top: 50px;left: 201px;display: none;}
+span.close{position: absolute;top: 0;right: 10px;}
+.demo_title { padding: 10px; margin-bottom: 10px; background-color: #D3D8E0; border: solid 1px gray; }
+.demo_content { padding: 10px; margin-bottom: 10px; border: solid 1px gray; }
+fieldset { border: 1px solid gray; }
+
